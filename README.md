@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lanangwisana
-- 👀 I’m interested in UI/UX and website development 
+- 👀 I’m interested in UI/UX, website and mobile development 
 - 🌱 I’m currently learning Mobile Programming using dart and flutter 
 - 💞️ I’m looking to collaborate on Pt. Telekomunikasi Indonesia 
 - 📫 How to reach me 085792368947(WA), @lanangwisana(ig), lanangwisana@gmail.com (email)
