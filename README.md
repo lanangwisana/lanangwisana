@@ -1,4 +1,4 @@
-🚀 About
+🚀 About Me
 Full-stack Web Developer | Machine Learning Enthusiast
 
 I am a dedicated Developer with a strong foundation in building scalable digital solutions. With hands-on experience in tech startups and competitive environments, I specialize in creating end-to-end web applications—balancing high-performance Back-end logic with seamless Front-end interfaces.
