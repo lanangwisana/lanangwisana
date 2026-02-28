@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @lanangwisana
-- 👀 I’m interested in UI/UX, website and mobile development 
-- 🌱 I’m currently learning Mobile Programming using dart and flutter 
-- 💞️ I’m looking to collaborate on Pt. Telekomunikasi Indonesia 
-- 📫 How to reach me 085792368947(WA), @lanangwisana(ig), lanangwisana@gmail.com (email)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 About
+Full-stack Web Developer | Machine Learning Enthusiast
 
-<!---
-lanangwisana/lanangwisana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a dedicated Developer with a strong foundation in building scalable digital solutions. With hands-on experience in tech startups and competitive environments, I specialize in creating end-to-end web applications—balancing high-performance Back-end logic with seamless Front-end interfaces.
+
+Currently, I am focused on integrating Machine Learning workflows into software development to build more intelligent, data-driven systems. I thrive in collaborative environments and am committed to delivering impactful innovations that solve real-world problems.
+
+Core Competencies:
+
+Web Development: Full-stack development, Scalable Database Design, and API Integration (Front-end & Back-end).
+
+Machine Learning: Data processing, model implementation, and ML workflow integration.
+
+Technical Tools: Git for version control, Swagger for API documentation, and agile development practices.
+
+I am always open to collaborating on large-scale projects and am particularly interested in the telecommunications and startup sectors.
+
+Let’s connect or collaborate:
+📧 lanangwisana@gmail.com
+📱 WhatsApp: 085792368947
+📸 Instagram: @lanangwisana
