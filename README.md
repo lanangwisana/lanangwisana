@@ -42,24 +42,42 @@ Currently, I am focused on integrating **Machine Learning** workflows into softw
 
 ---
 
+---
+
 ### 📊 GitHub Activities
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lanangwisana&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanangwisana&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lanangwisana&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanangwisana&layout=compact&theme=tokyonight&hide_border=true" />
+  
+  <br/>
+  
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=lanangwisana&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="center">
-  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=lanangwisana&theme=tokyonight&hide_border=true" />
+---
+
+### 📫 Let's Connect or Collaborate
+
+Informasi kontak saya kumpulkan di sini agar lebih efisien. Saya selalu terbuka untuk diskusi mengenai **Web Development** dan **Machine Learning**.
+
+<p align="left">
+  <a href="mailto:lanangwisana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lanangwisana%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/6285792368947">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B62%20857--9236--8947-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/lanangwisana">
+    <img src="https://img.shields.io/badge/Instagram-%40lanangwisana-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lanangwisana">
+    <img src="https://img.shields.io/badge/LinkedIn-Lanang%20Ary%20Wisana-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📫 Connect With Me
-
-* **Email:** [lanangwisana@gmail.com](mailto:lanangwisana@gmail.com)
-* **WhatsApp:** [+62 857-9236-8947](https://wa.me/6285792368947)
-
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=lanangwisana&icon=0&color=4" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=lanangwisana&color=blue&style=flat-square" alt="Visitor Count" />
 </div>
