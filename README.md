@@ -13,7 +13,7 @@
 
 ### 📝 About Me
 
-I am a dedicated **Developer** focused on building scalable digital solutions. With hands-on experience in tech startups and competitive environments, I specialize in creating end-to-end web applications—balancing high-performance **Back-end** logic with seamless **Front-end** interfaces.
+I am a dedicated **Developer** focused on building scalable digital solutions. With hands-on experience in tech startups and competitive environments, I specialize in creating end-to-end web applications - balancing high-performance **Back-end** logic with seamless **Front-end** interfaces.
 
 Currently, I am focused on integrating **Machine Learning** workflows into software development to build more intelligent, data-driven systems.
 
@@ -49,7 +49,7 @@ Saya sangat terbuka untuk diskusi teknis, kolaborasi proyek, atau peluang profes
 | :--- | :--- | :--- |
 | 📧 **Email** | lanangwisana@gmail.com | [Send Email](mailto:lanangwisana@gmail.com) |
 | 💬 **WhatsApp** | +62 857-9236-8947 | [Chat Now](https://wa.me/6285792368947) |
-| 💼 **LinkedIn** | Lanang Ary Wisana | [View Profile](https://linkedin.com/in/lanangwisana) |
+| 💼 **LinkedIn** | lanangwisana | [View Profile](https://linkedin.com/in/lanangwisana) |
 | 📸 **Instagram** | @lanangwisana | [Follow Me](https://instagram.com/lanangwisana) |
 
 **Current Status:**
